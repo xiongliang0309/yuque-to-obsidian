@@ -1,0 +1,4 @@
+interface:
+  display_name: "语雀迁移到 Obsidian"
+  short_description: "在内置浏览器打开语雀链接，复用登录会话，将指定文档或知识库迁移到 Obsidian"
+  default_prompt: "使用 $yuque-to-obsidian，在 Codex 内置浏览器打开我提供的语雀链接，将指定文档或知识库迁移到指定的 Obsidian 目录；需要时由我在内置标签页登录，先预演再写入及核验。"
