@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.lakebook
+*.zip
+*.html
+.yuque-migration-report.json
+*迁移报告*.json
+work/
+outputs/
+.env
+.env.*
